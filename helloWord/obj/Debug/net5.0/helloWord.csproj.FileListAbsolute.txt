@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.exe
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.deps.json
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.runtimeconfig.json
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.runtimeconfig.dev.json
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.dll
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\ref\helloWord.dll
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\bin\Debug\net5.0\helloWord.pdb
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.csprojAssemblyReference.cache
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.AssemblyInfo.cs
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.dll
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\ref\helloWord.dll
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.pdb
+C:\Users\user\Desktop\prueba\nuevaPrueba\helloWord\obj\Debug\net5.0\helloWord.genruntimeconfig.cache
